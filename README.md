@@ -53,6 +53,7 @@ ajax를 통한 데이터 전송처리<br/>
 커스텀 태그를 활용한 동일로직 처리<br/>
 
 <h2>메인페이지</h2>
+<img src="[/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG](https://user-images.githubusercontent.com/109890304/197214050-1a724192-4013-4c84-9071-b41996958c5c.png)"  width="700" height="370">
 <p>![image](https://user-images.githubusercontent.com/109890304/197214050-1a724192-4013-4c84-9071-b41996958c5c.png)</p>
 <h2>로그인</h2>
 ![image](https://user-images.githubusercontent.com/109890304/197214449-899e37c2-5454-486c-8853-6fac50b1e3bd.png)
