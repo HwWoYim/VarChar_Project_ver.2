@@ -54,7 +54,7 @@ ajax를 통한 데이터 전송처리<br/>
 
 메인페이지
 ![image](https://user-images.githubusercontent.com/109890304/197214050-1a724192-4013-4c84-9071-b41996958c5c.png)
-<h2>로그인</h2>
+<h2/>로그인
 ![image](https://user-images.githubusercontent.com/109890304/197214449-899e37c2-5454-486c-8853-6fac50b1e3bd.png)
 <h2>마이페이지</h2>
 ![image](https://user-images.githubusercontent.com/109890304/197214927-60421723-3e56-4205-ab45-1b22a145e6d8.png)
