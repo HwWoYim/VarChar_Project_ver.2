@@ -55,4 +55,8 @@ ajax를 통한 데이터 전송처리<br/>
 ![image](https://user-images.githubusercontent.com/109890304/197214050-1a724192-4013-4c84-9071-b41996958c5c.png)
 ![image](https://user-images.githubusercontent.com/109890304/197214449-899e37c2-5454-486c-8853-6fac50b1e3bd.png)
 ![image](https://user-images.githubusercontent.com/109890304/197214927-60421723-3e56-4205-ab45-1b22a145e6d8.png)
+![image](https://user-images.githubusercontent.com/109890304/197223048-d919cd71-1a13-4be2-bd4b-e19f343977e7.png)
+![image](https://user-images.githubusercontent.com/109890304/197223461-7481d890-06f4-4daa-adeb-071524123335.png)
+![image](https://user-images.githubusercontent.com/109890304/197223929-f0e5e367-8b5a-44ae-b94b-641882f15096.png)
+![image](https://user-images.githubusercontent.com/109890304/197226443-302db0e8-d062-40a8-9603-6f4f80084f0d.png)
 
