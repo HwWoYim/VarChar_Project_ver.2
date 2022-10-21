@@ -52,7 +52,7 @@ ajax를 통한 데이터 전송처리<br/>
 문의 게시판 문의글의 아코디언 플러그인 기능 구현<br/>
 커스텀 태그를 활용한 동일로직 처리<br/>
 
-메인페이지
+<h1>메인페이지</h1><br/>
 ![image](https://user-images.githubusercontent.com/109890304/197214050-1a724192-4013-4c84-9071-b41996958c5c.png)
 <h2/>로그인
 ![image](https://user-images.githubusercontent.com/109890304/197214449-899e37c2-5454-486c-8853-6fac50b1e3bd.png)
